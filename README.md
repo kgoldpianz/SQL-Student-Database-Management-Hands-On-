@@ -19,5 +19,5 @@ This project sets up a lightweight educational database (`Techcrush1`) to track 
 ## Tools & Skills Used
 * **SQL Server (T-SQL):** Database initialization, table structuring, primary key constraints, and bulk data insertion.
 
-* ## Conclusion
+## Conclusion
 This script provides a clean foundational template for managing student records within SQL Server. By utilizing core Data Definition Language (DDL) and Data Manipulation Language (DML) commands, it establishes a reliable starting point for tracking student enrollments and demographics.
